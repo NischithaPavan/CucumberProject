@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="34.441" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Verify Page Title" name="Verify Title" time="34.266">
+<system-out><![CDATA[
+Given I open chrome browser.................................................passed
+When title of the login page is "Fast weight loss. Lasting change.".........passed
+And Verify How it works tab.................................................passed
+Then verify Success Stories tab.............................................passed
+And Verify Support tab......................................................passed
+Then Verify Add to cart.....................................................passed
+Then Verify SignIn tab......................................................passed
+]]></system-out>
+</testcase>
+</testsuite>

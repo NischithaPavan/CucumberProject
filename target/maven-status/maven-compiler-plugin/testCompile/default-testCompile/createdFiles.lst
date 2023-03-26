@@ -1,0 +1,15 @@
+stepDefinitions\VerifyDeatilsInPopupStep.class
+pageObjects\VerifySearchRecipesPage.class
+BaseLibrary\TestBase.class
+stepDefinitions\VerifyAllTheTabsStep.class
+pageObjects\VerifyDeatilsInPopup.class
+pageObjects\VerifyShopProductsPage.class
+stepDefinitions\VerifyLoginPage.class
+utilities\TestUtils.class
+stepDefinitions\VerifyListOfFoodsStep.class
+stepDefinitions\VerifySearchReceipes.class
+pageObjects\LoginPage.class
+pageObjects\VerifyListOfFoodsPage.class
+pageObjects\VerifyAllTheTabs.class
+testRunner\TestRun.class
+stepDefinitions\VerifyShopProducts.class
